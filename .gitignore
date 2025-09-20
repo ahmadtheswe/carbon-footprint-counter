@@ -336,6 +336,7 @@ paket-files/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+!.vscode/README.md
 
 # CodeRush
 .cr/
@@ -398,3 +399,5 @@ Temporary Items
 dist
 .webpack
 .serverless/**/*.zip
+
+/generated/prisma
